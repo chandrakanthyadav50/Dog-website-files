@@ -1,1 +1,1 @@
-This branch is about learning
+These files are pushed to the repository just for the sake of learning. The files contained in it is of no use.
